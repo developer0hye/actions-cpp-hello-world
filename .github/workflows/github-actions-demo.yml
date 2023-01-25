@@ -5,6 +5,7 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
+      - run: gcc --version
       - run: cmake --version
       - run: ls
       - run: pwd
