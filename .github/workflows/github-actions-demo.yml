@@ -5,6 +5,7 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
+      - run: cmake --version
       - run: ls
       - run: pwd
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
