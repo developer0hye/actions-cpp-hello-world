@@ -1,1 +1,1 @@
-# hello-world-action
+# hello-world-actions
