@@ -1,1 +1,1 @@
-# cpp-hello-world-actions
+# actions-cpp-hello-world
